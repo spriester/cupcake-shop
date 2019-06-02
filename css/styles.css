@@ -1,33 +1,35 @@
-h1 {
-  font-family: sans-serif;
-  text-align: center;
-  color: magenta;
-}
 
 h2 {
   font.family: sans-serif;
-  text-align: centerl
-  color: pink;
+  color: crimson;
+}
+
+.best {
+  font-family: sans-serif;
+  font-style: bold;
+  color: blue;
+  font-weight: 800;
 }
 
 .intro {
-  width: 75%;
+  font.family: sans-serif;
   font-style: italic;
   font-weight: normal;
 }
 
-.menu {
-  width: 50%;
-  text-decoration: underline;
+.flashy {
+  font.family: sans-serif;
+  font-style: italic;
+  color: red;
   font-weight: bold;
 }
 
 .important {
-  width: 75%;
+  font.family: sans-serif;
   font-style: bold;
   font-weight: bold;
 }
 
 body {
-  background-color: lightpink;
+  background-color: pink;
 }
